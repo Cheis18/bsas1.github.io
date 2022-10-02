@@ -1,0 +1,239 @@
+html #codo {
+  height: 68px;
+  width: 133px;
+  float: left;
+  background-color: rgb(53 58 64);
+  margin-left: 78px;
+}
+#menu {
+  background-color: rgb(53 58 64);
+}
+#text {
+  display: flex;
+  text-align: justify;
+  color: aliceblue;
+  padding: 22px;
+}
+#texts {
+  display: flex;
+  text-align: justify;
+  color: rgb(43 171 68);
+  padding: 22px;
+}
+#co {
+  color: aliceblue;
+  width: 290px;
+  margin-top: 22px;
+}
+#imm {
+  max-width: 100%;
+  max-height: 100%;
+}
+.contenedor {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.texto-encima {
+  position: absolute;
+  top: 43%;
+  right: 18%;
+  transform: translate(87%, 22%);
+  color: aliceblue;
+  font-weight: bold;
+  font-size: 28px;
+}
+.centrado {
+  position: absolute;
+  top: 48%;
+  right: 62%;
+  transform: translate(140%, 22%);
+  color: aliceblue;
+  text-align: right;
+}
+.oscurecer {
+  filter: brightness(50%);
+}
+.ggg {
+  position: absolute;
+  top: 68%;
+  right: 30%;
+  transform: translate(87%, 22%);
+  color: aliceblue;
+  /*text-align: right;*/
+  padding: 9px 16px;
+  text-decoration: none;
+  border: 1px solid #f3eded;
+  border-radius: 5px;
+}
+.ggc {
+  position: absolute;
+  top: 68%;
+  right: 18%;
+  transform: translate(87%, 22%);
+  color: aliceblue;
+  /* text-align: right; */
+  background-color: #29a744;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  border: 1px solid rgba(100, 148, 237, 0.007);
+  border-radius: 5px;
+}
+#p {
+  padding-top: 14px;
+  text-align: center;
+  margin-bottom: -2px;
+}
+#pp {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 9px;
+}
+#id {
+  max-width: 66%;
+  margin-left: 219px;
+  margin-bottom: 9px;
+}
+.parrafos {
+  display: flex;
+}
+#r {
+  margin-left: 5px;
+  background-color: #16a2b8;
+  border: 1px solid rgba(100, 148, 237, 0.007);
+  border-radius: 5px;
+  color: white;
+}
+#rr {
+  background-color: #fec007;
+  border: 1px solid rgba(100, 148, 237, 0.007);
+  border-radius: 5px;
+}
+#rrrr {
+  margin-left: 5px;
+  background-color: #6e8488;
+  border: 1px solid rgba(100, 148, 237, 0.007);
+  border-radius: 5px;
+  color: white;
+}
+#rrr {
+  margin-left: 5px;
+  background-color: #dd1b1b;
+  border: 1px solid rgba(100, 148, 237, 0.007);
+  border-radius: 5px;
+  color: white;
+}
+
+#columnas {
+  column-count: 2;
+  column-gap: 20px;
+  column-rule: 4px dotted gray;
+}
+#contenedor {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#honolulu {
+  /* margin-left: 219px;
+  margin-bottom: 9px;
+  margin-right: 0px;
+  margin-top: 0px;*/
+  max-width: 672px;
+  max-height: 430px;
+}
+
+#contenedor > div {
+  width: 50%;
+}
+UL.col3 {
+  padding-right: 0px;
+  padding-left: 0px;
+  float: left;
+  padding-bottom: 0px;
+  margin: 15px 0px;
+  width: 100%;
+  padding-top: 0px;
+  list-style-type: none;
+}
+
+UL.col3 LI {
+  padding-right: 2px;
+  display: inline;
+  padding-left: 2px;
+  float: left;
+  padding-bottom: 2px;
+  width: 30%;
+  padding-top: 2px;
+}
+#m {
+  background-color: #353a40;
+  color: white;
+}
+#c {
+  margin-left: 17px;
+  margin-top: 5px;
+  font-size: 28px;
+}
+#cc {
+  margin-left: 17px;
+}
+
+.ccc {
+  color: aliceblue;
+  padding: 9px 16px;
+  text-decoration: none;
+  border: 1px solid #f3eded;
+  border-radius: 5px;
+  margin-left: 17px;
+}
+.pc {
+  text-align: center;
+}
+#row {
+  padding: 0px 250px;
+  margin-left: 17px;
+}
+.coll {
+  margin-left: 1px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+.pd {
+  margin-left: 280px;
+}
+#bot {
+  margin-left: 280px;
+  background-color: #96c93e;
+  width: 815px;
+  padding: 0.5%;
+  margin-bottom: 9px;
+  border-style: none;
+}
+#mene {
+  background: linear-gradient(to right, #1d3743, #1d5270);
+}
+#barra {
+  display: flex;
+  text-align: center;
+  color: white;
+  padding: 23px 20px;
+  margin-left: 46px;
+}
+
+#barr {
+  display: flex;
+  text-align: justify;
+  color: white;
+  padding: 12px;
+  margin-left: 145px;
+}
+#bar {
+  display: flex;
+  text-align: justify;
+  color: white;
+  padding: 12px;
+  margin-left: 52px;
+}
